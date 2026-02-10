@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:8
+device_longitude:-74.06256884336472
+device_latitude:4.5991399696069655
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:TempSensor1.evt
