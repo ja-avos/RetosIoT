@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1771305429241,506,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_777ad8570b39421c'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,1,1,null,0,0,0
+1771305429761,216,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_777ad8570b39421c'}.,parallel Parallel Controller,,true,,20,69,2,1,null,216,0,0
+1771305430176,357,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_cb7ac3c2e954457e'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,2,2,null,0,0,0
+1771305430545,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_cb7ac3c2e954457e'}.,parallel Parallel Controller,,true,,20,69,2,2,null,211,0,0
+1771305430756,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,2,null,0,0,0
+1771305430757,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_777ad8570b39421c'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,2,2,null,0,0,0
+1771305430849,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0d222a977d654690'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,3,3,null,0,0,0
+1771305431211,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0d222a977d654690'}.,parallel Parallel Controller,,true,,20,69,2,3,null,212,0,0
+1771305431165,355,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4de7a86ded524a55'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,3,3,null,0,0,0
+1771305431537,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,3,null,0,0,0
+1771305431537,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_cb7ac3c2e954457e'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,3,3,null,0,0,0
+1771305431531,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4de7a86ded524a55'}.,parallel Parallel Controller,,true,,20,69,2,3,null,204,0,0
+1771305431626,354,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c77d03a40f364c97'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,3,3,null,0,0,0
+1771305432202,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,4,null,0,0,0
+1771305431992,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c77d03a40f364c97'}.,parallel Parallel Controller,,true,,20,69,2,4,null,210,0,0
+1771305432202,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0d222a977d654690'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,4,4,null,0,0,0
+1771305432164,354,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_df78b1332bc44ca5'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,4,4,null,0,0,0
+1771305432521,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,4,null,0,0,0
+1771305432521,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4de7a86ded524a55'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,4,4,null,0,0,0
+1771305432292,357,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1db184f87eb94995'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,4,4,null,0,0,0
+1771305432529,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_df78b1332bc44ca5'}.,parallel Parallel Controller,,true,,20,69,2,4,null,204,0,0
+1771305432661,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1db184f87eb94995'}.,parallel Parallel Controller,,true,,20,69,2,4,null,214,0,0
+1771305432608,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1ef25abd4e4346a6'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,4,4,null,0,0,0
+1771305432983,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,4,null,0,0,0
+1771305432983,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c77d03a40f364c97'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,4,4,null,0,0,0
+1771305432968,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1ef25abd4e4346a6'}.,parallel Parallel Controller,,true,,20,69,2,5,null,202,0,0
+1771305433072,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f1de66cf55ee47cf'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,5,5,null,0,0,0
+1771305433519,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305433164,357,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ad5144eb3ce8410c'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,5,5,null,0,0,0
+1771305433520,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_df78b1332bc44ca5'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,5,5,null,0,0,0
+1771305433651,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305433438,213,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f1de66cf55ee47cf'}.,parallel Parallel Controller,,true,,20,69,2,5,null,213,0,0
+1771305433652,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1db184f87eb94995'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,5,5,null,0,0,0
+1771305433534,213,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ad5144eb3ce8410c'}.,parallel Parallel Controller,,true,,20,69,2,5,null,213,0,0
+1771305433957,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305433611,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0e102605db9746b0'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,5,5,null,0,0,0
+1771305433958,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1ef25abd4e4346a6'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,5,5,null,0,0,0
+1771305433741,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0c93447fe1c04072'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,5,5,null,0,0,0
+1771305433970,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0e102605db9746b0'}.,parallel Parallel Controller,,true,,20,69,2,6,null,207,0,0
+1771305434094,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0c93447fe1c04072'}.,parallel Parallel Controller,,true,,20,69,2,6,null,207,0,0
+1771305434044,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e88dd171be864660'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,6,6,null,0,0,0
+1771305434427,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305434164,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_bdb288d071c546c9'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,6,6,null,0,0,0
+1771305434428,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f1de66cf55ee47cf'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,6,6,null,0,0,0
+1771305434523,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305434397,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e88dd171be864660'}.,parallel Parallel Controller,,true,,20,69,2,6,null,200,0,0
+1771305434523,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ad5144eb3ce8410c'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,6,6,null,0,0,0
+1771305434526,196,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_bdb288d071c546c9'}.,parallel Parallel Controller,,true,,20,69,2,6,null,196,0,0
+1771305434518,356,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5698cadd512e4324'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,6,6,null,0,0,0
+1771305434960,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305434614,355,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0eebc1937aa04a88'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,6,6,null,0,0,0
+1771305434961,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0e102605db9746b0'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,6,6,null,0,0,0
+1771305435084,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305434885,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5698cadd512e4324'}.,parallel Parallel Controller,,true,,20,69,2,6,null,211,0,0
+1771305435085,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0c93447fe1c04072'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,7,7,null,0,0,0
+1771305434980,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0eebc1937aa04a88'}.,parallel Parallel Controller,,true,,20,69,2,7,null,208,0,0
+1771305435387,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305435051,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_67d93e6f60cf41de'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,7,7,null,0,0,0
+1771305435387,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e88dd171be864660'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,7,7,null,0,0,0
+1771305435164,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_55cf23eede954d53'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,7,7,null,0,0,0
+1771305435515,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305435172,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8807e375a7614a7d'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,7,7,null,0,0,0
+1771305435515,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_bdb288d071c546c9'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,7,7,null,0,0,0
+1771305435407,198,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_67d93e6f60cf41de'}.,parallel Parallel Controller,,true,,20,69,2,7,null,198,0,0
+1771305435524,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_55cf23eede954d53'}.,parallel Parallel Controller,,true,,20,69,2,7,null,211,0,0
+1771305435533,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8807e375a7614a7d'}.,parallel Parallel Controller,,true,,20,69,2,7,null,203,0,0
+1771305435475,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7f39898755374aec'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,7,7,null,0,0,0
+1771305435876,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305435603,357,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3175c2ca6e9b44b1'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,7,7,null,0,0,0
+1771305435876,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5698cadd512e4324'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,7,7,null,0,0,0
+1771305435970,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305435828,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7f39898755374aec'}.,parallel Parallel Controller,,true,,20,69,2,7,null,200,0,0
+1771305435971,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0eebc1937aa04a88'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,7,7,null,0,0,0
+1771305435972,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3175c2ca6e9b44b1'}.,parallel Parallel Controller,,true,,20,69,2,8,null,210,0,0
+1771305435966,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4db3586760794d6f'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,8,8,null,0,0,0
+1771305436396,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305436061,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_bc639eeaf1834602'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,8,8,null,0,0,0
+1771305436396,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_67d93e6f60cf41de'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,8,8,null,0,0,0
+1771305436164,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_b5b6303d9e374b81'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,8,8,null,0,0,0
+1771305436514,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305436522,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305436330,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4db3586760794d6f'}.,parallel Parallel Controller,,true,,20,69,2,8,null,211,0,0
+1771305436514,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_55cf23eede954d53'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,8,8,null,0,0,0
+1771305436522,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8807e375a7614a7d'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,8,8,null,0,0,0
+1771305436416,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_bc639eeaf1834602'}.,parallel Parallel Controller,,true,,20,69,2,8,null,199,0,0
+1771305436517,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_b5b6303d9e374b81'}.,parallel Parallel Controller,,true,,20,69,2,8,null,208,0,0
+1771305436818,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305436485,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7487b264a607435d'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,8,8,null,0,0,0
+1771305436819,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7f39898755374aec'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,8,8,null,0,0,0
+1771305436610,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_72fccf61c9324d2d'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,8,8,null,0,0,0
+1771305436602,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_28ebc57acd6a4713'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,8,8,null,0,0,0
+1771305436962,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305436962,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3175c2ca6e9b44b1'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,8,8,null,0,0,0
+1771305436848,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7487b264a607435d'}.,parallel Parallel Controller,,true,,20,69,2,8,null,204,0,0
+1771305436963,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_72fccf61c9324d2d'}.,parallel Parallel Controller,,true,,20,69,2,8,null,197,0,0
+1771305436964,213,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_28ebc57acd6a4713'}.,parallel Parallel Controller,,true,,20,69,2,9,null,213,0,0
+1771305436909,348,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c7dee8421a714eb6'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,9,9,null,0,0,0
+1771305437320,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437052,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_fce37e28b5154c23'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,9,9,null,0,0,0
+1771305437405,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437320,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4db3586760794d6f'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,9,9,null,0,0,0
+1771305437270,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c7dee8421a714eb6'}.,parallel Parallel Controller,,true,,20,69,2,9,null,203,0,0
+1771305437405,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_bc639eeaf1834602'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,9,9,null,0,0,0
+1771305437508,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437164,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8c2a071acfe64f5b'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,9,9,null,0,0,0
+1771305437509,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_b5b6303d9e374b81'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,9,9,null,0,0,0
+1771305437407,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_fce37e28b5154c23'}.,parallel Parallel Controller,,true,,20,69,2,9,null,204,0,0
+1771305437520,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8c2a071acfe64f5b'}.,parallel Parallel Controller,,true,,20,69,2,9,null,201,0,0
+1771305437412,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ffab71bdcb1640c5'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,9,9,null,0,0,0
+1771305437838,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437493,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c573fc8e7686418a'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,9,9,null,0,0,0
+1771305437839,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7487b264a607435d'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,9,9,null,0,0,0
+1771305437594,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c18675f7e77a44d9'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,9,9,null,0,0,0
+1771305437953,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437955,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305437773,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ffab71bdcb1640c5'}.,parallel Parallel Controller,,true,,20,69,2,9,null,212,0,0
+1771305437953,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_72fccf61c9324d2d'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,9,9,null,0,0,0
+1771305437955,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_28ebc57acd6a4713'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,9,9,null,0,0,0
+1771305437854,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c573fc8e7686418a'}.,parallel Parallel Controller,,true,,20,69,2,9,null,208,0,0
+1771305437948,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c18675f7e77a44d9'}.,parallel Parallel Controller,,true,,20,69,2,9,null,207,0,0
+1771305438260,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305437930,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_b7c0118fa60a449b'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305438260,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c7dee8421a714eb6'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305438041,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_45b70031f73d4ddd'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305438042,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_caca689f2a3b473d'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305438396,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438284,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_b7c0118fa60a449b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305438397,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_fce37e28b5154c23'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305438164,339,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e7bcfd5c51384b2b'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305438510,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438510,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8c2a071acfe64f5b'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305438404,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_45b70031f73d4ddd'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305438406,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_caca689f2a3b473d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,201,0,0
+1771305438350,348,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c5a1e179d18b4551'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305438514,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e7bcfd5c51384b2b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305438763,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438485,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_99d5423a065c4dcc'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305438845,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438764,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ffab71bdcb1640c5'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305438709,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c5a1e179d18b4551'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305438846,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c573fc8e7686418a'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305438938,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438598,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f27f7b2810b2468f'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305438939,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c18675f7e77a44d9'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305438845,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_99d5423a065c4dcc'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305438962,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f27f7b2810b2468f'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305438852,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9d0bc6d815ed43a3'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305439274,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305438936,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_01f2a8c69f7c4dbc'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305439275,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_b7c0118fa60a449b'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305439026,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_565ab055f2854c79'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305439393,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439396,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439209,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9d0bc6d815ed43a3'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305439393,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_45b70031f73d4ddd'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305439396,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_caca689f2a3b473d'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305439290,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_01f2a8c69f7c4dbc'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305439506,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439381,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_565ab055f2854c79'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305439506,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e7bcfd5c51384b2b'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305439699,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439363,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3b138bea3e4643af'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305439700,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c5a1e179d18b4551'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305439835,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439485,358,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e0dd2063b70f4db4'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305439485,361,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3fad333272424bc9'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305439835,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_99d5423a065c4dcc'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305439718,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3b138bea3e4643af'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305439595,337,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_24942b11f7f44e8e'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305439952,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439953,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f27f7b2810b2468f'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305439854,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e0dd2063b70f4db4'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305439857,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3fad333272424bc9'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305439787,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_cea71fc363444d29'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305439943,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_24942b11f7f44e8e'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305440199,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305439923,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6c304b859bc64bf1'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305440279,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440200,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9d0bc6d815ed43a3'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305440142,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_cea71fc363444d29'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305440280,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_01f2a8c69f7c4dbc'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305440371,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440044,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f3d574e64ff549f6'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305440372,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_565ab055f2854c79'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305440277,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6c304b859bc64bf1'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305440398,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f3d574e64ff549f6'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305440288,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_76b87225248e4706'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305440709,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440368,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_42913da03b394201'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305440710,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3b138bea3e4643af'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305440459,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_12208cfc96874b9b'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305440845,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440848,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440650,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_76b87225248e4706'}.,parallel Parallel Controller,,true,,20,69,2,10,null,210,0,0
+1771305440845,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e0dd2063b70f4db4'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305440848,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3fad333272424bc9'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305440934,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440728,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_42913da03b394201'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305440934,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_24942b11f7f44e8e'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305440815,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_12208cfc96874b9b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305441132,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440799,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_70d8f07c40f64dd2'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305441132,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_cea71fc363444d29'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305441268,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305440935,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3392cd7152ac4999'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305440935,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_16186472e73f4c89'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305441268,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6c304b859bc64bf1'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305441021,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_964ed88f2ae541cb'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305441160,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_70d8f07c40f64dd2'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305441387,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305441388,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f3d574e64ff549f6'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305441291,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3392cd7152ac4999'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305441298,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_16186472e73f4c89'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305441220,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_036a240c4bfb46a9'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305441375,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_964ed88f2ae541cb'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305441638,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305441355,358,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_b28fd132948e4b2d'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305441719,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305441639,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_76b87225248e4706'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305441579,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_036a240c4bfb46a9'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305441719,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_42913da03b394201'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305441805,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305441475,356,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c730d16423e34bb9'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305441805,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_12208cfc96874b9b'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305441724,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_b28fd132948e4b2d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305441842,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c730d16423e34bb9'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305441727,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_225441dd834148be'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305442149,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305441807,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2a827bf6798f4176'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305442150,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_70d8f07c40f64dd2'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305441895,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_df0d8b092e1c42df'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305442281,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442288,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442082,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_225441dd834148be'}.,parallel Parallel Controller,,true,,20,69,2,10,null,210,0,0
+1771305442365,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442281,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3392cd7152ac4999'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305442165,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2a827bf6798f4176'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305442288,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_16186472e73f4c89'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305442247,198,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_df0d8b092e1c42df'}.,parallel Parallel Controller,,true,,20,69,2,10,null,198,0,0
+1771305442366,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_964ed88f2ae541cb'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305442568,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442239,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_68a4dfb1771d4b3b'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305442569,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_036a240c4bfb46a9'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305442716,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442376,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f27542f474774820'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305442369,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e1ab3125cedd4591'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305442453,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_604fca3366384cff'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305442716,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_b28fd132948e4b2d'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305442604,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_68a4dfb1771d4b3b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305442832,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442833,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c730d16423e34bb9'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305442732,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e1ab3125cedd4591'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305442732,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f27542f474774820'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305442809,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_604fca3366384cff'}.,parallel Parallel Controller,,true,,20,69,2,10,null,199,0,0
+1771305442660,373,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_eb4377f30a9a4f06'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305443072,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305442804,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6a85fe0f6af1400a'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305443072,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_225441dd834148be'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305443156,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443238,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443156,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2a827bf6798f4176'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305443044,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_eb4377f30a9a4f06'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305442922,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_d6b5a5cb9e8246e5'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305443238,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_df0d8b092e1c42df'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305443166,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6a85fe0f6af1400a'}.,parallel Parallel Controller,,true,,20,69,2,10,null,214,0,0
+1771305443281,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_d6b5a5cb9e8246e5'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305443159,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_d4bcd13f9d3240ef'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305443594,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443243,354,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5273cd7fa88d445c'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305443326,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_937943405dec4eff'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305443594,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_68a4dfb1771d4b3b'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305443511,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_d4bcd13f9d3240ef'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305443723,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443723,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443798,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443724,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f27542f474774820'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305443724,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e1ab3125cedd4591'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305443608,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5273cd7fa88d445c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305443798,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_604fca3366384cff'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305443689,209,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_937943405dec4eff'}.,parallel Parallel Controller,,true,,20,69,2,10,null,209,0,0
+1771305444033,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443683,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5554025b397b4e90'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305444034,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_eb4377f30a9a4f06'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305444155,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305443813,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e0cd73c75c7a48de'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305443813,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_deb8d532bf894002'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305443885,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_dfd7bd7d84e54a5a'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305444155,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6a85fe0f6af1400a'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305444046,206,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5554025b397b4e90'}.,parallel Parallel Controller,,true,,20,69,2,10,null,206,0,0
+1771305444271,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305444271,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_d6b5a5cb9e8246e5'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305444168,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e0cd73c75c7a48de'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305444169,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_deb8d532bf894002'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305444243,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_dfd7bd7d84e54a5a'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305444122,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_cddd6eb4377e4a10'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305444501,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305444502,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_d4bcd13f9d3240ef'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305444597,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305444246,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_d72d110e71c34b0c'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305444679,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305444597,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5273cd7fa88d445c'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305444484,209,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_cddd6eb4377e4a10'}.,parallel Parallel Controller,,true,,20,69,2,10,null,209,0,0
+1771305444359,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_a41ede51abab4139'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305444679,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_937943405dec4eff'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305444610,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_d72d110e71c34b0c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305444714,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_a41ede51abab4139'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305444588,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_41ed1931902444c8'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305444689,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_47a99fef5bae4062'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305445035,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305444769,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6a65ad3eaaf44033'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305445035,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5554025b397b4e90'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305444940,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_41ed1931902444c8'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305445158,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445159,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445233,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445158,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e0cd73c75c7a48de'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305445159,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_deb8d532bf894002'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305445043,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_47a99fef5bae4062'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305445233,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_dfd7bd7d84e54a5a'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305445123,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6a65ad3eaaf44033'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305445123,348,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f74e0f6ba9d44808'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305445475,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445475,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_cddd6eb4377e4a10'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305445247,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_90f2b2cc682e4a86'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305445247,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0cb4620b3e6b4d44'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305445600,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445320,355,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1be64b0f9d034982'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305445600,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_d72d110e71c34b0c'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305445483,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f74e0f6ba9d44808'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305445704,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445704,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_a41ede51abab4139'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305445601,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_90f2b2cc682e4a86'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305445605,213,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0cb4620b3e6b4d44'}.,parallel Parallel Controller,,true,,20,69,2,10,null,213,0,0
+1771305445686,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1be64b0f9d034982'}.,parallel Parallel Controller,,true,,20,69,2,10,null,214,0,0
+1771305445566,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8db83bd2754d4950'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305445931,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445931,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_41ed1931902444c8'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305446033,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305445691,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7057fdddb9c445c2'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305446113,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446033,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_47a99fef5bae4062'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305445792,339,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_70abfd1978754052'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305445929,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8db83bd2754d4950'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305446113,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6a65ad3eaaf44033'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305446049,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7057fdddb9c445c2'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305446143,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_70abfd1978754052'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305446019,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f877d2159c3d421c'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305446121,339,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1634f6b2fca644ab'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305446473,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446201,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1e0d6d71ab574731'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305446473,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f74e0f6ba9d44808'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305446590,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446383,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f877d2159c3d421c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305446595,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446472,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1634f6b2fca644ab'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305446676,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446590,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_90f2b2cc682e4a86'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305446595,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0cb4620b3e6b4d44'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305446554,196,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1e0d6d71ab574731'}.,parallel Parallel Controller,,true,,20,69,2,10,null,196,0,0
+1771305446676,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1be64b0f9d034982'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305446560,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c8a86543ff2c4188'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305446921,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446921,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8db83bd2754d4950'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305446680,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9355216b2c7b4c0d'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305446684,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_b9938de9d30044da'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305447039,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446766,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5865e201ebca4068'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305447039,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7057fdddb9c445c2'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305447132,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305446925,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c8a86543ff2c4188'}.,parallel Parallel Controller,,true,,20,69,2,10,null,214,0,0
+1771305447132,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_70abfd1978754052'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305447032,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9355216b2c7b4c0d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,201,0,0
+1771305447039,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_b9938de9d30044da'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305447128,216,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5865e201ebca4068'}.,parallel Parallel Controller,,true,,20,69,2,10,null,216,0,0
+1771305447010,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e5b4539a669043af'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305447375,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447461,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447375,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f877d2159c3d421c'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305447126,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5e7e39dcbe1f482c'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305447543,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447461,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1634f6b2fca644ab'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305447221,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3005fe526fb74955'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305447375,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e5b4539a669043af'}.,parallel Parallel Controller,,true,,20,69,2,10,null,199,0,0
+1771305447544,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1e0d6d71ab574731'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305447479,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5e7e39dcbe1f482c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305447575,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3005fe526fb74955'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305447464,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4b4bf2665b404f1b'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305447549,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3b78696d76a746dd'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305447915,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447632,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_75e0953d3a24444e'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305447915,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c8a86543ff2c4188'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305448022,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448029,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447828,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4b4bf2665b404f1b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,214,0,0
+1771305447904,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3b78696d76a746dd'}.,parallel Parallel Controller,,true,,20,69,2,10,null,199,0,0
+1771305448022,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9355216b2c7b4c0d'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305448029,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_b9938de9d30044da'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305448118,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305447988,206,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_75e0953d3a24444e'}.,parallel Parallel Controller,,true,,20,69,2,10,null,206,0,0
+1771305448118,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5865e201ebca4068'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305448005,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_43452b6bfae8493f'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305448363,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448363,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e5b4539a669043af'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305448117,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6f6bb7cce749440c'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305448110,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_50bf2b35770044b3'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305448468,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448207,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_42d2feab746a4e37'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305448468,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5e7e39dcbe1f482c'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305448564,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448369,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_43452b6bfae8493f'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305448564,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3005fe526fb74955'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305448471,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6f6bb7cce749440c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305448471,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_50bf2b35770044b3'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305448561,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_42d2feab746a4e37'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305448452,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3df3fee297e04c7a'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305448817,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448894,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448556,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4e4f6027fc044746'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305448817,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4b4bf2665b404f1b'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305448976,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305448894,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3b78696d76a746dd'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305448652,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_217d1a4573d147e9'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305448805,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3df3fee297e04c7a'}.,parallel Parallel Controller,,true,,20,69,2,10,null,201,0,0
+1771305448977,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_75e0953d3a24444e'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305448908,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4e4f6027fc044746'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305449007,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_217d1a4573d147e9'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305448905,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_d2e5913b38be4499'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305448981,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_a90de7048fe24d8f'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305449359,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449064,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5aaffea5ff484aea'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305449359,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_43452b6bfae8493f'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305449461,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449461,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449269,214,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_d2e5913b38be4499'}.,parallel Parallel Controller,,true,,20,69,2,10,null,214,0,0
+1771305449332,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_a90de7048fe24d8f'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305449462,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6f6bb7cce749440c'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305449462,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_50bf2b35770044b3'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305449551,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449416,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5aaffea5ff484aea'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305449551,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_42d2feab746a4e37'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305449795,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449451,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6f616a6e121a4a20'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305449795,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3df3fee297e04c7a'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305449551,348,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_b1795758da2642f1'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305449900,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449552,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1806d4f97b4040a9'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305449639,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_913af88f3877418c'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305449900,91,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4e4f6027fc044746'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305449997,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449812,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6f616a6e121a4a20'}.,parallel Parallel Controller,,true,,20,69,2,10,null,201,0,0
+1771305449997,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_217d1a4573d147e9'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305449910,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_b1795758da2642f1'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305449915,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1806d4f97b4040a9'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305450000,196,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_913af88f3877418c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,196,0,0
+1771305449884,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f4a7febd0af94279'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305450258,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450322,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305449993,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_33fffa8240564ac5'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305450258,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_d2e5913b38be4499'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305450322,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_a90de7048fe24d8f'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305450408,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450085,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ee07f6c659394101'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305450235,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f4a7febd0af94279'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305450408,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5aaffea5ff484aea'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305450350,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_33fffa8240564ac5'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305450437,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ee07f6c659394101'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305450346,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6434e4d0801d4f9a'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305450410,336,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_638d443c2fe94aa2'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305450802,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450494,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9bbebba913b44023'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305450802,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6f616a6e121a4a20'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305450900,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450907,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450710,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6434e4d0801d4f9a'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305450759,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_638d443c2fe94aa2'}.,parallel Parallel Controller,,true,,20,69,2,10,null,199,0,0
+1771305450900,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_b1795758da2642f1'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305450989,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450907,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1806d4f97b4040a9'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305450856,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9bbebba913b44023'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305450989,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_913af88f3877418c'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305451225,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450892,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7dbd7b48e8d542cc'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305451225,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f4a7febd0af94279'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305450988,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_dea4c30ca3964a8c'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305451339,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305450997,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8035247c2f8b4333'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305451340,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_33fffa8240564ac5'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305451428,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305451077,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_711e1ac6b02944e6'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305451245,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7dbd7b48e8d542cc'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305451428,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ee07f6c659394101'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305451339,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_dea4c30ca3964a8c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305451360,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8035247c2f8b4333'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305451440,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_711e1ac6b02944e6'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305451314,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_119a7435737f4b5a'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305451700,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305451748,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305451427,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_28f0ff67689a4a10'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305451701,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6434e4d0801d4f9a'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305451748,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_638d443c2fe94aa2'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305451845,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305451516,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0aeac87bd8934165'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305451670,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_119a7435737f4b5a'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305451845,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9bbebba913b44023'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305451780,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_28f0ff67689a4a10'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305451879,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0aeac87bd8934165'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305451791,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e0bb8881916746a5'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305451836,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_d08d088ec5934ce0'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305452235,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305451934,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_652bf8c7f109403b'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305452235,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7dbd7b48e8d542cc'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305452329,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452349,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452154,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e0bb8881916746a5'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305452190,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_d08d088ec5934ce0'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305452329,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_dea4c30ca3964a8c'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305452430,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452350,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8035247c2f8b4333'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305452287,209,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_652bf8c7f109403b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,209,0,0
+1771305452430,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_711e1ac6b02944e6'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305452659,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452323,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_fdce0d46064d4d00'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305452660,83,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_119a7435737f4b5a'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305452417,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2eb802e8a472483b'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305452769,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452437,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e2d6d4e46d154e07'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305452769,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_28f0ff67689a4a10'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305452519,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_cdba938410cf4cb3'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305452869,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452677,206,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_fdce0d46064d4d00'}.,parallel Parallel Controller,,true,,20,69,2,10,null,206,0,0
+1771305452869,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0aeac87bd8934165'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305452792,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e2d6d4e46d154e07'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305452779,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2eb802e8a472483b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305452872,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_cdba938410cf4cb3'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305452746,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2b2b4a9320804afd'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305453144,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453180,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452857,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9b4b9d6f072d493b'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305453144,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e0bb8881916746a5'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305453180,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_d08d088ec5934ce0'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305453278,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305452956,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2463a3deee864f47'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305453108,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2b2b4a9320804afd'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305453278,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_652bf8c7f109403b'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305453208,195,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9b4b9d6f072d493b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,195,0,0
+1771305453313,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2463a3deee864f47'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305453235,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2fb1e1c471ae4e45'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305453267,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1d666ad91aa24dd6'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305453667,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453366,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_fdfd41c941f7471c'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305453667,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_fdce0d46064d4d00'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305453770,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453781,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453597,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2fb1e1c471ae4e45'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305453622,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1d666ad91aa24dd6'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305453770,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2eb802e8a472483b'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305453861,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453781,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e2d6d4e46d154e07'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305453720,215,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_fdfd41c941f7471c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,215,0,0
+1771305453862,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_cdba938410cf4cb3'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305454098,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453756,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c622cbaede854b99'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305454098,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2b2b4a9320804afd'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305454198,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305453868,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5c368cab45e34891'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305453859,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e4a8b90966364fbe'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305454198,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9b4b9d6f072d493b'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305453949,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_906bca1c96f74b29'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305454303,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305454121,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c622cbaede854b99'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305454303,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2463a3deee864f47'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305454220,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5c368cab45e34891'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305454222,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e4a8b90966364fbe'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305454310,219,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_906bca1c96f74b29'}.,parallel Parallel Controller,,true,,20,69,2,10,null,219,0,0
+1771305454190,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f3b5de3ada5a494e'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305454587,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305454612,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305454284,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_bbd76226d7b24ef8'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305454587,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2fb1e1c471ae4e45'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305454612,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1d666ad91aa24dd6'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305454710,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305454392,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_bb681ff4e5c94946'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305454547,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f3b5de3ada5a494e'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305454710,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_fdfd41c941f7471c'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305454648,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_bbd76226d7b24ef8'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305454752,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_bb681ff4e5c94946'}.,parallel Parallel Controller,,true,,20,69,2,10,null,208,0,0
+1771305454679,338,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_a35cef62457b459f'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305454703,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_87f64d04d2ed465d'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305455111,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305454798,336,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9b8e8fa3c2b94b4e'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305455111,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c622cbaede854b99'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305455209,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455212,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455028,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_a35cef62457b459f'}.,parallel Parallel Controller,,true,,20,69,2,10,null,207,0,0
+1771305455067,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_87f64d04d2ed465d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305455209,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5c368cab45e34891'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305455212,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e4a8b90966364fbe'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305455301,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455146,199,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9b8e8fa3c2b94b4e'}.,parallel Parallel Controller,,true,,20,69,2,10,null,199,0,0
+1771305455301,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_906bca1c96f74b29'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305455537,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455201,359,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4bb5509417b14eb6'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305455537,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f3b5de3ada5a494e'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305455638,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455299,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6e8417e2751b4283'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305455298,351,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_674dc11c94974d9b'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305455638,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_bbd76226d7b24ef8'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305455392,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ab78029f9c264b26'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305455742,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455571,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4bb5509417b14eb6'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305455742,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_bb681ff4e5c94946'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305455652,209,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6e8417e2751b4283'}.,parallel Parallel Controller,,true,,20,69,2,10,null,209,0,0
+1771305455661,202,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_674dc11c94974d9b'}.,parallel Parallel Controller,,true,,20,69,2,10,null,202,0,0
+1771305455749,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ab78029f9c264b26'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305455624,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_4ad7de6f9f2e41e0'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305456018,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456057,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305455729,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_eaffc2050a87423c'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305456018,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_a35cef62457b459f'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305456135,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456057,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_87f64d04d2ed465d'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305455830,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_251906896ecb4ef4'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305455985,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_4ad7de6f9f2e41e0'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305456135,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9b8e8fa3c2b94b4e'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305456086,213,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_eaffc2050a87423c'}.,parallel Parallel Controller,,true,,20,69,2,10,null,213,0,0
+1771305456184,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_251906896ecb4ef4'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305456106,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c03697f1c225450e'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305456145,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_45030cb73a764c3d'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305456562,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456222,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_589f159de4dd4788'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305456641,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456562,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4bb5509417b14eb6'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305456651,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456464,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c03697f1c225450e'}.,parallel Parallel Controller,,true,,20,69,2,10,null,203,0,0
+1771305456504,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_45030cb73a764c3d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,197,0,0
+1771305456641,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6e8417e2751b4283'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305456651,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_674dc11c94974d9b'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305456739,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456587,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_589f159de4dd4788'}.,parallel Parallel Controller,,true,,20,69,2,10,null,210,0,0
+1771305456739,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ab78029f9c264b26'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305456975,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456653,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_5f1d8ac03d30488f'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305456975,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_4ad7de6f9f2e41e0'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305456728,337,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7056af1c2ddd4020'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305457076,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456741,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_02f4c02d65fc43aa'} established successfully.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305457076,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_eaffc2050a87423c'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305457175,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305456828,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_0a054355425348ce'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,10,10,null,0,0,0
+1771305457007,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_5f1d8ac03d30488f'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305457175,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_251906896ecb4ef4'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305457076,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7056af1c2ddd4020'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305457099,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_02f4c02d65fc43aa'}.,parallel Parallel Controller,,true,,20,69,2,10,null,212,0,0
+1771305457186,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_0a054355425348ce'}.,parallel Parallel Controller,,true,,20,69,2,10,null,205,0,0
+1771305457068,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_2af3c20397c64105'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,10,10,null,0,0,0
+1771305457453,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457493,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457165,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e134bd9340604f6d'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,10,10,null,0,0,0
+1771305457454,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c03697f1c225450e'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305457576,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457493,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_45030cb73a764c3d'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305457262,337,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ab25c2c0885549e5'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,10,10,null,0,0,0
+1771305457421,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_2af3c20397c64105'}.,parallel Parallel Controller,,true,,20,69,2,10,null,204,0,0
+1771305457576,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_589f159de4dd4788'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305457523,209,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e134bd9340604f6d'}.,parallel Parallel Controller,,true,,20,69,2,10,null,209,0,0
+1771305457610,200,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ab25c2c0885549e5'}.,parallel Parallel Controller,,true,,20,69,2,10,null,200,0,0
+1771305457541,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e62c4fbc39f643db'} established successfully.,IoT Loopback Threads 1-2,,true,,11,0,10,10,null,0,0,0
+1771305457581,350,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_769e650fb5ca4819'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,10,10,null,0,0,0
+1771305457997,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457666,344,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_e419ab5202074f2e'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,10,10,null,0,0,0
+1771305458066,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457997,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_5f1d8ac03d30488f'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,10,10,null,0,0,0
+1771305458089,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,10,null,0,0,0
+1771305457897,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e62c4fbc39f643db'}.,parallel Parallel Controller,,true,,20,69,2,10,null,210,0,0
+1771305458067,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7056af1c2ddd4020'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,10,10,null,0,0,0
+1771305457942,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_769e650fb5ca4819'}.,parallel Parallel Controller,,true,,20,69,2,10,null,211,0,0
+1771305458089,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_02f4c02d65fc43aa'} disconnected.,IoT Loopback Threads 1-1,,true,,11,0,10,10,null,0,0,0
+1771305458176,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458022,206,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_e419ab5202074f2e'}.,parallel Parallel Controller,,true,,20,69,2,9,null,206,0,0
+1771305458176,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_0a054355425348ce'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,9,9,null,0,0,0
+1771305458412,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458085,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_052fd1d5b74d4726'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,9,9,null,0,0,0
+1771305458412,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_2af3c20397c64105'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,9,9,null,0,0,0
+1771305458154,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_237612f503834884'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,9,9,null,0,0,0
+1771305458513,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458513,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e134bd9340604f6d'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,9,9,null,0,0,0
+1771305458600,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458265,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_ce030dd8a5b64671'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,9,9,null,0,0,0
+1771305458437,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_052fd1d5b74d4726'}.,parallel Parallel Controller,,true,,20,69,2,9,null,197,0,0
+1771305458600,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ab25c2c0885549e5'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,9,9,null,0,0,0
+1771305458509,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_237612f503834884'}.,parallel Parallel Controller,,true,,20,69,2,9,null,203,0,0
+1771305458629,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_ce030dd8a5b64671'}.,parallel Parallel Controller,,true,,20,69,2,9,null,208,0,0
+1771305458499,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_edf3241cc32d4734'} established successfully.,IoT Loopback Threads 1-3,,true,,11,0,9,9,null,0,0,0
+1771305458887,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458932,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,9,null,0,0,0
+1771305458601,345,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6fc7ad5959574b73'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,9,9,null,0,0,0
+1771305458887,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e62c4fbc39f643db'} disconnected.,IoT Loopback Threads 1-2,,true,,11,0,9,9,null,0,0,0
+1771305459011,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305458932,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_769e650fb5ca4819'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,8,8,null,0,0,0
+1771305458687,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_157964694b494a54'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,8,8,null,0,0,0
+1771305458853,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_edf3241cc32d4734'}.,parallel Parallel Controller,,true,,20,69,2,8,null,197,0,0
+1771305459011,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_e419ab5202074f2e'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,8,8,null,0,0,0
+1771305458957,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6fc7ad5959574b73'}.,parallel Parallel Controller,,true,,20,69,2,8,null,204,0,0
+1771305459040,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_157964694b494a54'}.,parallel Parallel Controller,,true,,20,69,2,8,null,212,0,0
+1771305459024,346,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_032cab7a0d644359'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,8,8,null,0,0,0
+1771305459427,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305459099,339,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_97cf43f901344f74'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,8,8,null,0,0,0
+1771305459497,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305459427,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_052fd1d5b74d4726'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,8,8,null,0,0,0
+1771305459381,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_032cab7a0d644359'}.,parallel Parallel Controller,,true,,20,69,2,8,null,201,0,0
+1771305459498,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_237612f503834884'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,8,8,null,0,0,0
+1771305459619,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305459450,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_97cf43f901344f74'}.,parallel Parallel Controller,,true,,20,69,2,8,null,211,0,0
+1771305459619,89,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_ce030dd8a5b64671'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,8,8,null,0,0,0
+1771305459843,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,8,null,0,0,0
+1771305459515,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_1d1911065a1a48f7'} established successfully.,IoT Loopback Threads 1-4,,true,,11,0,8,8,null,0,0,0
+1771305459843,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_edf3241cc32d4734'} disconnected.,IoT Loopback Threads 1-3,,true,,11,0,8,8,null,0,0,0
+1771305459585,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_611f91e6aab744f8'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,7,7,null,0,0,0
+1771305459947,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305460031,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305459947,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6fc7ad5959574b73'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,7,7,null,0,0,0
+1771305459711,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_f7a34329077c44d3'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,7,7,null,0,0,0
+1771305459869,206,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_1d1911065a1a48f7'}.,parallel Parallel Controller,,true,,20,69,2,7,null,206,0,0
+1771305460031,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_157964694b494a54'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,7,7,null,0,0,0
+1771305459946,207,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_611f91e6aab744f8'}.,parallel Parallel Controller,,true,,20,69,2,7,null,207,0,0
+1771305460064,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_f7a34329077c44d3'}.,parallel Parallel Controller,,true,,20,69,2,7,null,197,0,0
+1771305460373,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305460035,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_89e1bb59d73f4c06'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,7,7,null,0,0,0
+1771305460439,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305460119,340,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_a015418f69e04d38'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,7,7,null,0,0,0
+1771305460373,87,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_032cab7a0d644359'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,7,7,null,0,0,0
+1771305460439,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_97cf43f901344f74'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,7,7,null,0,0,0
+1771305460396,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_89e1bb59d73f4c06'}.,parallel Parallel Controller,,true,,20,69,2,7,null,208,0,0
+1771305460471,196,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_a015418f69e04d38'}.,parallel Parallel Controller,,true,,20,69,2,7,null,196,0,0
+1771305460463,336,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7ec0c19db02c4900'} established successfully.,IoT Loopback Threads 1-5,,true,,11,0,7,7,null,0,0,0
+1771305460858,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305460527,347,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8219021f60e34015'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,7,7,null,0,0,0
+1771305460935,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,7,null,0,0,0
+1771305460858,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_1d1911065a1a48f7'} disconnected.,IoT Loopback Threads 1-4,,true,,11,0,7,7,null,0,0,0
+1771305460810,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7ec0c19db02c4900'}.,parallel Parallel Controller,,true,,20,69,2,6,null,208,0,0
+1771305460936,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_611f91e6aab744f8'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,6,6,null,0,0,0
+1771305461054,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305460885,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8219021f60e34015'}.,parallel Parallel Controller,,true,,20,69,2,6,null,211,0,0
+1771305461054,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_f7a34329077c44d3'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,6,6,null,0,0,0
+1771305461023,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_c982a1bc5dc942b6'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,6,6,null,0,0,0
+1771305461386,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305461460,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305461386,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_89e1bb59d73f4c06'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,6,6,null,0,0,0
+1771305461142,354,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_59f0d48a9133471d'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,6,6,null,0,0,0
+1771305461460,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_a015418f69e04d38'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,6,6,null,0,0,0
+1771305461387,212,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_c982a1bc5dc942b6'}.,parallel Parallel Controller,,true,,20,69,2,6,null,212,0,0
+1771305461507,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_59f0d48a9133471d'}.,parallel Parallel Controller,,true,,20,69,2,6,null,197,0,0
+1771305461800,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305461475,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_561f004842e345c7'} established successfully.,IoT Loopback Threads 1-6,,true,,11,0,6,6,null,0,0,0
+1771305461875,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,6,null,0,0,0
+1771305461801,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7ec0c19db02c4900'} disconnected.,IoT Loopback Threads 1-5,,true,,11,0,6,6,null,0,0,0
+1771305461546,349,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_9e8c721c26c64a01'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,5,5,null,0,0,0
+1771305461876,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8219021f60e34015'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,5,5,null,0,0,0
+1771305461828,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_561f004842e345c7'}.,parallel Parallel Controller,,true,,20,69,2,5,null,208,0,0
+1771305461906,208,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_9e8c721c26c64a01'}.,parallel Parallel Controller,,true,,20,69,2,5,null,208,0,0
+1771305461964,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_da3f55f010cd4231'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,5,5,null,0,0,0
+1771305462377,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305462377,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_c982a1bc5dc942b6'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,5,5,null,0,0,0
+1771305462498,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305462328,204,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_da3f55f010cd4231'}.,parallel Parallel Controller,,true,,20,69,2,5,null,204,0,0
+1771305462498,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_59f0d48a9133471d'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,5,5,null,0,0,0
+1771305462465,339,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_6b057445840b4732'} established successfully.,IoT Loopback Threads 1-7,,true,,11,0,5,5,null,0,0,0
+1771305462818,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305462896,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,5,null,0,0,0
+1771305462818,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_561f004842e345c7'} disconnected.,IoT Loopback Threads 1-6,,true,,11,0,5,5,null,0,0,0
+1771305462585,341,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_3562dcc4fbc64a21'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,4,4,null,0,0,0
+1771305462896,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_9e8c721c26c64a01'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,4,4,null,0,0,0
+1771305462815,211,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_6b057445840b4732'}.,parallel Parallel Controller,,true,,20,69,2,4,null,211,0,0
+1771305462937,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_3562dcc4fbc64a21'}.,parallel Parallel Controller,,true,,20,69,2,4,null,197,0,0
+1771305463318,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,4,null,0,0,0
+1771305462985,352,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_a7571e191dea4390'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,4,4,null,0,0,0
+1771305463318,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_da3f55f010cd4231'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,4,4,null,0,0,0
+1771305463349,210,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_a7571e191dea4390'}.,parallel Parallel Controller,,true,,20,69,2,4,null,210,0,0
+1771305463409,355,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_063fa4bae3414774'} established successfully.,IoT Loopback Threads 1-8,,true,,11,0,4,4,null,0,0,0
+1771305463805,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,4,null,0,0,0
+1771305463806,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_6b057445840b4732'} disconnected.,IoT Loopback Threads 1-7,,true,,11,0,4,4,null,0,0,0
+1771305463928,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,3,null,0,0,0
+1771305463775,201,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_063fa4bae3414774'}.,parallel Parallel Controller,,true,,20,69,2,3,null,201,0,0
+1771305463928,84,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_3562dcc4fbc64a21'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,3,3,null,0,0,0
+1771305464338,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,3,null,0,0,0
+1771305464014,342,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_fa732c14cb9642d0'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,3,3,null,0,0,0
+1771305464338,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_a7571e191dea4390'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,3,3,null,0,0,0
+1771305464367,197,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_fa732c14cb9642d0'}.,parallel Parallel Controller,,true,,20,69,2,3,null,197,0,0
+1771305464766,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,3,null,0,0,0
+1771305464429,343,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_7ee8c25347a0497f'} established successfully.,IoT Loopback Threads 1-9,,true,,11,0,3,3,null,0,0,0
+1771305464766,88,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_063fa4bae3414774'} disconnected.,IoT Loopback Threads 1-8,,true,,11,0,3,3,null,0,0,0
+1771305464782,205,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_7ee8c25347a0497f'}.,parallel Parallel Controller,,true,,20,69,2,2,null,205,0,0
+1771305465357,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,2,null,0,0,0
+1771305465357,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_fa732c14cb9642d0'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,2,2,null,0,0,0
+1771305465773,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,2,null,0,0,0
+1771305465445,353,MQTT Connect (SSL),200,Connection HiveMQTTConnection{clientId='client_8240c9e55c8c4f43'} established successfully.,IoT Loopback Threads 1-10,,true,,11,0,2,2,null,0,0,0
+1771305465773,85,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_7ee8c25347a0497f'} disconnected.,IoT Loopback Threads 1-9,,true,,11,0,2,2,null,0,0,0
+1771305465810,203,Pub Message,200,publish successfully for Connection HiveMQTTConnection{clientId='client_8240c9e55c8c4f43'}.,parallel Parallel Controller,,true,,20,69,2,1,null,203,0,0
+1771305466800,0,Sub Validation,200,Received 1 of message.,parallel Parallel Controller,,true,,69,0,1,1,null,0,0,0
+1771305466801,86,MQTT Disconnect,200,Connection HiveMQTTConnection{clientId='client_8240c9e55c8c4f43'} disconnected.,IoT Loopback Threads 1-10,,true,,11,0,1,1,null,0,0,0
