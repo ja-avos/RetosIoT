@@ -448,7 +448,7 @@ def get_max_measure_date(*args, date, measurement):
     ).values('station__location__city__name').annotate(
         max_value=Max('max_value')
     )
-    return JsonResponse({"max_by_city": list(results)})
+    return JsonResponse(list(results), safe=False)
 
 class LoginView(TemplateView):
     template_name = "login.html"
