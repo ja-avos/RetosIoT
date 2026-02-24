@@ -429,20 +429,10 @@ def get_max_measure_date(*args, date, measurement):
 
     measurement_db = Measurement.objects.filter(name=measurement).first()
 
-    data = Data.objects.filter(
-        time__gte=start_ts, time__lte=end_ts, measurement=measurement_db
-    )
+    if measurement_db is None:
+        return JsonResponse({"error": "Measurement not found"}, status=404)
+    
 
-    if data.count() == 0:
-        return JsonResponse({"max": 0})
-
-    max_by_city = {}
-    for location in Location.objects.all():
-        stations = Station.objects.filter(location=location)
-        location_data = data.filter(station__in=stations)
-        if location_data.count() > 0:
-            max_val = location_data.aggregate(Max("max_value"))["max_value__max"]
-            max_by_city[location.city.name] = round(max_val if max_val is not None else 0, 2)
     results = Data.objects.filter(
         measurement=measurement_db, time__gte=start_ts, time__lt=end_ts
     ).values('station__location__city__name').annotate(
